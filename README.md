@@ -1,4 +1,4 @@
-# Documentasi Javascript 
+# Dokumentasi Javascript 
 
 - Javascript dasar 
 - javascript middle 
